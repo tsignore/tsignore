@@ -11,7 +11,9 @@
 
 ### :man_technologist: Обо мне :
 Я Full Stack разработчик с упором на Frontend. <br/>
-Я занимаюсь Web-разработкой с 2019 года. <br/>
+Занимаюсь Web-разработкой с 2019 года. <br/>
+Оцениваю свои знания на Junior - Pre-middle. <br/>
+Активно ищу работу. <br/>
 Мой стек :
 <div>
  <img src="https://img.shields.io/badge/Typescript-blue?logo=typescript&logoColor=white&style=for-the-badge"/>
