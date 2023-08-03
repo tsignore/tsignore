@@ -5,10 +5,6 @@
   <a href="https://t.me/agushaswag"><img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="telegram Badge"/></a>
 </div>
 
-/* <div>
-  <img width="300px" height="auto" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExem0yNWduZmxvaTJpMGRlMHh4M204dWZlYXBnOWJkNndwcXlrcHphaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzO0Vc8b2VBLi/giphy.gif" width="600" height="300"/>
-</div> */
-
 ### :man_technologist: Обо мне :
 Мне 21 год. Живу в Москве. <br/>
 Я Full Stack разработчик с упором на Frontend. <br/>
