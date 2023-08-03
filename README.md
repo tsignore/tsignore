@@ -10,6 +10,7 @@
 </div>
 
 ### :man_technologist: Обо мне :
+Мне 21 год. Живу в Москве. <br/>
 Я Full Stack разработчик с упором на Frontend. <br/>
 Занимаюсь Web-разработкой с 2019 года. <br/>
 Оцениваю свои знания на Junior - Pre-middle. <br/>
