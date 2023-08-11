@@ -26,6 +26,10 @@
 </div>
 
  <br/>
+
+ <img src="https://www.codewars.com/users/ElderlyRacoon1337/badges/small"/>
+ 
+ <br/>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElderlyRacoon1337)](https://github.com/anuraghazra/github-readme-stats)
  
