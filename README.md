@@ -2,7 +2,7 @@
 <div>
   Связаться со мной можно через телеграм
   <br/>
-  <a href="https://t.me/agushaswag"><img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="telegram Badge"/></a>
+  <a href="https://t.me/pashaparshin"><img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="telegram Badge"/></a>
 </div>
 
 ### :man_technologist: Обо мне :
