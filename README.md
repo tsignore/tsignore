@@ -26,11 +26,5 @@ Frontend-разработчик со стеком: TypeScript, React, Next.js, R
  <img src="https://www.codewars.com/users/ElderlyRacoon1337/badges/small"/>
  
  <br/>
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsignore)](https://github.com/anuraghazra/github-readme-stats)
- 
- ### :fire: Моя статистика :
- 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tsignore&theme=dark&background=000000)](https://git.io/streak-stats)
 
 С тех пор как я отслеживаю свой код, я провел за разработкой: <img src="https://wakatime.com/badge/user/68cd59ba-ee8e-4140-bc60-358854178130.svg"/>
