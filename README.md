@@ -2,7 +2,7 @@
 <div>
   Связаться со мной можно через телеграм
   <br/>
-  <a href="https://t.me/pashaparshin"><img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="telegram Badge"/></a>
+  <a href="https://t.me/iwillwipeawaymytears"><img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="telegram Badge"/></a>
 </div>
 
 ### :man_technologist: Обо мне :
@@ -18,11 +18,6 @@
  <img src="https://img.shields.io/badge/Redux-purple?logo=Redux&logoColor=white&style=for-the-badge"/>
  <img src="https://img.shields.io/badge/NextJS-black?style=for-the-badge"/>
  <img src="https://img.shields.io/badge/scss-hotpink?logo=sass&logoColor=white&style=for-the-badge"/>
- <img src="https://img.shields.io/badge/expressJS-yellow?logo=express&logoColor=white&style=for-the-badge"/>
- <img src="https://img.shields.io/badge/nestjs-red?logo=nestjs&logoColor=white&style=for-the-badge"/>
- <img src="https://img.shields.io/badge/mongoose-darkred?logo=mongoose&logoColor=white&style=for-the-badge"/>
- <img src="https://img.shields.io/badge/materialui-blue?logo=mui&logoColor=white&style=for-the-badge"/>
- <img src="https://img.shields.io/badge/styledcomponents-hotpink?logo=styledcomponents&logoColor=white&style=for-the-badge"/>
 </div>
 
  <br/>
