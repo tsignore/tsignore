@@ -6,11 +6,12 @@
 </div>
 
 ### :man_technologist: Обо мне :
-Мне 21 год. Живу в Москве. <br/>
-Я Full Stack разработчик с упором на Frontend. <br/>
-Занимаюсь Web-разработкой с 2019 года. <br/>
-Оцениваю свои знания на Junior - Pre-middle. <br/>
-Активно ищу работу. <br/>
+Мне 22 года. Живу в Москве. <br/>
+Frontend-разработчик со стеком: TypeScript, React, Next.js, Redux (Redux Toolkit), Websockets. <br/>
+Знаком с Git Flow, FSD, tailwind, styled components. <br/>
+Обладаю опытом работы в компании и на фрилансе, а также прошел стажировку <br/>
+
+Всегда открыт к новым знаниям и готов к профессиональному росту. Отличаюсь высокими навыками коммуникации, ответственностью и доброжелательностью, что помогает работать в команде. <br/>
 Мой стек :
 <div>
  <img src="https://img.shields.io/badge/Typescript-blue?logo=typescript&logoColor=white&style=for-the-badge"/>
@@ -33,7 +34,3 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ElderlyRacoon1337&theme=dark&background=000000)](https://git.io/streak-stats)
 
 С тех пор как я отслеживаю свой код, я провел за разработкой: <img src="https://wakatime.com/badge/user/68cd59ba-ee8e-4140-bc60-358854178130.svg"/>
-
-### :office: Опыт работы :
-Опыт работы на фрилансе. Делал на заказ интернет-магазины и лендинги.
-Официально нигде не работал, но активно ищу работу.
