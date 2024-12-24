@@ -24,7 +24,5 @@ Frontend-разработчик со стеком: TypeScript, React, Next.js, R
  <br/>
 
  <img src="https://www.codewars.com/users/ElderlyRacoon1337/badges/small"/>
- 
- <br/>
 
 С тех пор как я отслеживаю свой код, я провел за разработкой: <img src="https://wakatime.com/badge/user/68cd59ba-ee8e-4140-bc60-358854178130.svg"/>
